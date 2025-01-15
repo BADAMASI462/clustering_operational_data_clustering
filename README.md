@@ -3,5 +3,5 @@ This repository contains machine learning project:
 
 - Clustering for pattern recognition
 
-## Projects Overview
+## Project Overview
 - `linear_regression.py`: Predicting daily oil production.
